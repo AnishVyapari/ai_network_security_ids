@@ -1,0 +1,23 @@
+# Core dependencies
+numpy>=1.21.0
+pandas>=1.3.0
+scikit-learn>=1.0.0
+PyYAML>=6.0
+joblib>=1.0.0
+
+# Visualization
+matplotlib>=3.4.0
+seaborn>=0.11.0
+
+# Optional: Deep Learning
+torch>=1.10.0  # Optional, for DNN model
+
+# Optional: Packet capture
+scapy>=2.4.5  # Optional, for PCAP parsing and live capture
+
+# Testing
+pytest>=7.0.0
+pytest-cov>=3.0.0
+
+# Development
+ipython>=7.0.0
